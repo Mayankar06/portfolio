@@ -1,0 +1,49 @@
+#title {
+    background-color: #142e47;
+}
+.navbar-brand{
+position:absolute;
+left: 15px;
+}
+.heading{
+    padding: 7% 10%;
+}
+div.my-intro{
+    margin-left: 300px;
+    position: absolute;
+    z-index: 1;
+    color: #78ffbe;
+    bottom: 357px;
+}
+.png {
+     position: relative;
+     width: 40%;
+     height: 4cm;
+     top: 36px;
+    left: 500px;
+}
+#about {
+    padding: 4% 3%;
+    text-align: center;
+}
+.icon {
+    color: #142e47;
+    padding-bottom: 20px;
+}
+#work {
+    background-color: #142e47;
+    color: #78ffbe;
+    padding: 6% 10%;
+}
+.carousel-item {
+    height: 500px;
+}
+.contact-icon {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.col{
+    display: flex;
+    align-items: center;
+}
